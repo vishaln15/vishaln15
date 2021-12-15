@@ -12,7 +12,7 @@
     &nbsp;
     <a href="https://twitter.com/vishal15n/" target="_blank"><img src="assets/twitter.svg" alt="Vishal's Twitter" width="45" height="45" /></a>
     &nbsp;
-    <a href="https://orcid.org/0000-0001-7635-6247" target="_blank"><img src="assets/orcid.svg" alt="Vishal's OrcID" width="45" height="45" /></a>
+    <a href="https://orcid.org/0000-0001-7635-6247" target="_blank"><img src="assets/orcid.jpg" alt="Vishal's OrcID" width="45" height="45" /></a>
     &nbsp;
     <a href="https://scholar.google.com/citations?user=Fl2vkV4AAAAJ&hl=en" target="_blank"><img src="assets/google-scholar.svg" alt="Vishal's Google Scholar" width="45" height="45" /></a>
     &nbsp;<br>
