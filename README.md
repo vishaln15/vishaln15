@@ -23,7 +23,7 @@
 
 ### My story
 :one: I'm a senior **Computer Science and Engineering** undergraduate at [SSN College of Engineering]("https://www.ssn.edu.in/college-of-engineering/computer-science-and-engineering-department-ssn-institutions/"), Chennai, India.<br>
-:two: I'm currently working on [PySigPro - Signal Processing and Feature Extract Package](https://github.com/vishaln15/pysigpro). <br>
+:two: I'm currently working on [PySigPro - Signal Processing and Feature Extraction Package](https://github.com/vishaln15/pysigpro). <br>
 :three: I have worked on developing an [Optimized Arrhythmia Detection Pipeline](https://arxiv.org/abs/2111.11789) for resource-constrained devices, which has been accepted at the [20<sup>th</sup> International Conference on Machine Learning and Applications (ICMLA), 2021](https://www.icmla-conference.org/icmla21/). You can find the code for it [here](https://github.com/vishaln15/OptimizedArrhythmiaDetection).<br>
 :four: I have also worked on another research paper on developing [Scalable Machine Learning Architecture for Neonatal Seizure Detection](https://arxiv.org/abs/2111.15569), that has been accepted at the [2<sup>nd</sup> International Conference on Artificial Intelligence and Signal Processing (AISP), 2022](https://www.aisp.in/). You can find the implementation for the same [here](https://github.com/vishaln15/NeonatalSeizureDetection).<br>
 :five: I'm currently a Teaching and Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/people/VishalNagarajan/) where I'm doing research in Signal Processing and Embedded Machine Learning.<br>
