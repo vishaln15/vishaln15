@@ -22,11 +22,11 @@
 ---
 
 ### My story
-:one: I'm an incoming MS CS grad at [**University of California, San Diego**](https://cse.ucsd.edu/graduate/degree-programs/ms-program) for Fall 2022. I did my undergraduate in **Computer Science and Engineering** at [SSN College of Engineering]("https://www.ssn.edu.in/college-of-engineering/computer-science-and-engineering-department-ssn-institutions/"), Chennai, India.<br>
+:one: I'm a CS grad at [**University of California, San Diego**](https://cse.ucsd.edu/graduate/degree-programs/ms-program) for Fall 2022. I did my undergraduate in **Computer Science and Engineering** at [SSN College of Engineering]("https://www.ssn.edu.in/college-of-engineering/computer-science-and-engineering-department-ssn-institutions/"), Chennai, India.<br>
 :two: I have worked on developing an [Optimized Arrhythmia Detection Pipeline](https://arxiv.org/abs/2111.11789) for resource-constrained devices, which has been accepted at the [20<sup>th</sup> International Conference on Machine Learning and Applications (ICMLA), 2021](https://www.icmla-conference.org/icmla21/). You can find the code for it [here](https://github.com/vishaln15/OptimizedArrhythmiaDetection).<br>
 :three: I have also worked on another research paper on developing [Scalable Machine Learning Architecture for Neonatal Seizure Detection](https://arxiv.org/abs/2111.15569), that has been accepted at the [2<sup>nd</sup> International Conference on Artificial Intelligence and Signal Processing (AISP), 2022](https://www.aisp.in/). You can find the implementation for the same [here](https://github.com/vishaln15/NeonatalSeizureDetection).<br>
 :four: I was a Teaching and Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/people/VishalNagarajan/) where I researched in the area of Signal Processing and Embedded Machine Learning.<br>
-:five: My interests include Machine Learning, Deep Learning, Explainable AI, and Signal Processing. I am available to make contributions to the Open Source community, so kindly [email](mailto:nagarajanvishal@gmail.com) me for any potential projects 😄!<br>
+:five: My interests include Machine Learning, Deep Learning, Explainable AI, and Signal Processing. I am available to make contributions to the Open Source community, so kindly [email](mailto:vnagarajan@ucsd.edu) me for any potential projects 😄!<br>
 :six: Check my [portfolio website](https://vishaln15.github.io) for more details and an updated [résumé](https://vishaln15.github.io/resume/).<br>
 
 ### Some technologies that I use
